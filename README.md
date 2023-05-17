@@ -1,7 +1,7 @@
 # studentdk<br>
 远程部署可联系qq484139229，加时备注来意<br>
 基于java在校大学生贷款管理系统<br>
-jsp,mysql,jdbc,如图
+jsp,mysql,jdbc,如图,该系统有参考文档
 
 <br>
 
